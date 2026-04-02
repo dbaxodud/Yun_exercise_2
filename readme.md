@@ -79,7 +79,6 @@
 - Python, Scikit-learn, MongoDB, Google Maps API
 
 ---
----
 
 ### [Project 2] 서울시 교통 약자를 위한 '최적 저상버스 배차 알고리즘' 시뮬레이션
 **Data Analyst** | 2025. 09 - 2025. 12
