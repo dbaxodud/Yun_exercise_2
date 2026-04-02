@@ -1,3 +1,22 @@
+<style>
+  body {
+    background-color: #0d1117; /* 깃허브 다크모드 배경색 */
+    color: #c9d1d9; /* 연한 회색 글자색 */
+  }
+  a {
+    color: #58a6ff; /* 링크 파란색 */
+  }
+  code {
+    background-color: #161b22;
+    color: #ff7b72;
+  }
+  blockquote {
+    background-color: #161b22;
+    border-left: 0.25em solid #30363d;
+    color: #8b949e;
+  }
+</style>
+
 # Future CV - 윤태영
 
 > 반갑습니다, 데이터를 통해 비즈니스의 방향을 제시하는 **데이터 사이언티스트 윤태영**입니다.
@@ -95,5 +114,4 @@
 
 **박규동 교수님**
 - **소속:** 광운대학교 정보융합학부 데이터사이언스전공
-  
   
