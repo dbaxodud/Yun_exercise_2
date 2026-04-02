@@ -30,7 +30,7 @@
 ## 🏢 Work Experience
 
 ### Naver (네이버)
-**Data Analyst Intern** | 2025. 07 - 2025. 12
+**Data Science Intern** | 2025. 07 - 2025. 12
 
 **Description**
 > 네이버 쇼핑 유저의 검색 및 클릭 로그 데이터를 활용하여, 구매 전환 패턴에 대한 탐색적 데이터 분석(EDA)을 수행했습니다.
@@ -61,10 +61,11 @@
 
 ---
 
+
 ## 💻 Project Experience (프로젝트 경험)
 
-### [Strolling] 사용자 맞춤형 산책 경로 및 장소 추천 시스템
-**Lead Data Analyst** | 2024. 09 - 2024. 12
+### [Project 1] 사용자 맞춤형 산책 경로 및 장소 추천 시스템
+**Data analyst** | 2024. 09 - 2024. 12
 
 **Description**
 > '산책' 컨셉의 SNS 트렌드에 착안하여, 사용자의 위치와 개인 취향을 반영한 감성 장소 추천 알고리즘을 개발했습니다.
@@ -78,6 +79,37 @@
 - Python, Scikit-learn, MongoDB, Google Maps API
 
 ---
+---
+
+### [Project 2] 서울시 교통 약자를 위한 '최적 저상버스 배차 알고리즘' 시뮬레이션
+**Data Analyst** | 2025. 09 - 2025. 12
+
+**Description**
+> 휠체어 이용자 및 노약자의 이동권 보장을 위해, 지하철 엘리베이터 위치와 버스 정류장 간의 연계성을 분석하여 저상버스 우선 배차 노선을 제안했습니다.
+
+**Activities**
+- 서울시 열린데이터 광장의 '버스 노선별 저상버스 도입 현황'과 '지하철 역내 엘리베이터 위치' 데이터 결합
+- Folium 라이브러리를 활용하여 교통 약자 이동 사각지대(Blind Spot)를 히트맵(Heatmap)으로 시각화
+- 유동인구 대비 저상버스 보급률이 낮은 노선을 정량적으로 산출하여 개선 리포트 작성
+
+**Tech Stack**
+- Python, Pandas, Folium, Geopandas
+
+---
+
+### [Project 3] 머신러닝 기반 '무단 투기 취약 지역' 예측 및 쓰레기통 최적 입지 선정
+**Data Analyst** | 2026. 01 - 2026. 02
+
+**Description**
+> 도심 내 쓰레기 무단 투기 문제를 해결하기 위해, CCTV 위치와 인구 밀도 데이터를 분석하여 투기 발생 가능성이 높은 지역을 예측했습니다.
+
+**Activities**
+- 1인 가구 밀집도, 상권 활성화 정도, 기존 쓰레기통 위치 데이터를 독립 변수로 설정하여 상관관계 분석
+- Random Forest 모델을 활용해 무단 투기 발생 확률이 높은 상위 10개 구역(Hotspot) 예측
+- 분석 결과를 바탕으로 수거 효율을 20% 높일 수 있는 신규 쓰레기통 배치 최적화 모델 제안
+
+**Tech Stack**
+- Python, Scikit-learn, Matplotlib, XGBoost
 
 ## 📜 Certificates (자격증)
 - **ADsP (데이터분석 준전문가)** | 한국데이터산업진흥원 (2024. 11)
